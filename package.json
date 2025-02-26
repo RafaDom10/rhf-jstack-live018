@@ -8,6 +8,7 @@
     "build": "tsc -b && vite build"
   },
   "dependencies": {
+    "@hookform/error-message": "^2.0.1",
     "@radix-ui/react-slot": "^1.1.2",
     "@tailwindcss/vite": "^4.0.8",
     "class-variance-authority": "^0.7.1",
