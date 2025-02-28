@@ -4,4 +4,5 @@ export interface IUser {
   zipcode: string
   city: string
   street: string
+  blocked?: boolean
 }
